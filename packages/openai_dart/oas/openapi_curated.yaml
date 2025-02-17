@@ -2920,7 +2920,7 @@ components:
           type: string
           description: The contents of the chunk message.
           nullable: true
-        reason_content:
+        reasoning_content:
           type: string
           description: The reason content of the chunk message.
           nullable: true
